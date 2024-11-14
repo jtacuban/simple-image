@@ -1,4 +1,4 @@
-# simple-image#
+# simple-image
 
 A custom simple docker image template for beginners to simply manimulate and deploy as docker container.
 

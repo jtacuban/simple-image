@@ -1,7 +1,6 @@
-# simple-image
-Simple Docker file
+# simple-image#
 
-Custom Docker Template for Beginners. 
+A custom simple docker image template for beginners to simply manimulate and deploy as docker container.
 
 Just Add your HTML file on "simple-image/src/html" directory.
 

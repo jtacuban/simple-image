@@ -1,5 +1,7 @@
 FROM nginx:alpine
-COPY src/html /usr/share/nginx/html
+COPY src/html /var/www/sample
+
+#COPY src/html /usr/share/nginx/html
 
 # ENV PRODUCTION=true
 
